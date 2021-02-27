@@ -1,8 +1,11 @@
 ## Welcome to GitHub Pages
 
 [Login to App](Login-to-App.html)
+
 [Shop For Groceries](Shop-For-Groceries.html)
+
 [Checkout](Checkout.html)
+
 [Pay For Groceries](Pay-For-Groceries.html)
 
 
