@@ -1,10 +1,11 @@
 ## Welcome to GitHub Pages
 
-<a href=“Login-to-App.html”>Login to App.html</a>
 [Login to App](Login-to-App.html)
-<a href=“Shop-For-Groceries.html”>Shop For Groceries.html</a>
-<a href=“Checkout.html”>Checkout.html</a>
-<a href=“Pay-For-Groceries.html”>Pay For Groceries.html</a>
+[Shop For Groceries](Shop-For-Groceries.html)
+[Checkout](Checkout.html)
+[Pay For Groceries](Pay-For-Groceries.html)
+
+
 
 You can use the [editor on GitHub](https://github.com/asanchez705/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
